@@ -1,0 +1,14 @@
+{
+   "name": "newsletter-sanity-app",
+   "version": "1.0.0",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "format": "prettier --write"
+   },
+   "author": "Mateusz Lisowski",
+   "license": "ISC",
+   "description": "",
+   "dependencies": {
+      "prettier": "^3.2.5"
+   }
+}
